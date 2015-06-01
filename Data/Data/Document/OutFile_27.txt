@@ -1,0 +1,138 @@
++ Number of nodes: 27
++ Number of initial links: 32
++ Initial network cost: 5451.108
+	Working path from 0 to 1
+	Node0-Node1
+	Backup path: 
+	Node0-Node4-Node2-Node1
+	Working path from 0 to 2
+	Node0-Node2
+	Backup path: 
+	Node0-Node4-Node2
+	Working path from 0 to 10
+	Node0-Node1-Node3-Node6-Node8-Node9-Node10
+	Backup path: 
+	Node0-Node4-Node3-Node5-Node7-Node17-Node16-Node15-Node13-Node11-Node10
+	Working path from 0 to 25
+	Node0-Node1-Node3-Node6-Node8-Node24-Node25
+	Backup path: 
+	Node0-Node4-Node3-Node5-Node7-Node17-Node16-Node15-Node13-Node11-Node10-Node25
+	Working path from 14 to 15
+	Node14-Node15
+	Backup path: 
+	Node14-Node16-Node15
+	Working path from 8 to 22
+	Node8-Node22
+	Backup path: 
+	Node8-Node9-Node10-Node25-Node24-Node26-Node23-Node22
+	Working path from 0 to 14
+	Node0-Node20-Node19-Node16-Node14
+	Backup path: 
+	Node0-Node4-Node3-Node6-Node8-Node9-Node10-Node11-Node13-Node15-Node14
+	Working path from 2 to 17
+	Node2-Node4-Node5-Node7-Node17
+	Backup path: 
+	Node2-Node1-Node3-Node5-Node6-Node8-Node9-Node10-Node11-Node13-Node15-Node16-Node17
+	Working path from 18 to 10
+	Node18-Node7-Node5-Node6-Node8-Node9-Node10
+	Backup path: 
+	Node18-Node20-Node19-Node16-Node15-Node13-Node11-Node10
+	Working path from 20 to 7
+	Node20-Node18-Node7
+	Backup path: 
+	Node20-Node0-Node1-Node3-Node5-Node7
+	Working path from 21 to 26
+	Node21-Node0-Node1-Node3-Node6-Node8-Node23-Node26
+	Backup path: 
+	Node21-Node4-Node3-Node5-Node7-Node17-Node16-Node15-Node13-Node11-Node10-Node25-Node24-Node26
+	Working path from 19 to 6
+	Node19-Node20-Node18-Node7-Node5-Node6
+	Backup path: 
+	Node19-Node16-Node15-Node13-Node11-Node10-Node9-Node8-Node6
+	Working path from 15 to 11
+	Node15-Node13-Node11
+	Backup path: 
+	Node15-Node16-Node17-Node7-Node5-Node6-Node8-Node9-Node10-Node11
+	Working path from 2 to 12
+	Node2-Node1-Node3-Node6-Node8-Node9-Node12
+	Backup path: 
+	Node2-Node4-Node3-Node5-Node7-Node17-Node12
+	Working path from 16 to 22
+	Node16-Node17-Node7-Node5-Node6-Node8-Node22
+	Backup path: 
+	Node16-Node15-Node13-Node11-Node10-Node25-Node24-Node26-Node23-Node22
+	Working path from 3 to 23
+	Node3-Node6-Node8-Node23
+	Backup path: 
+	Node3-Node5-Node7-Node17-Node12-Node9-Node10-Node25-Node24-Node26-Node23
+	Working path from 6 to 16
+	Node6-Node5-Node7-Node17-Node16
+	Backup path: 
+	Node6-Node8-Node9-Node10-Node11-Node13-Node15-Node16
+	Working path from 13 to 24
+	Node13-Node11-Node10-Node9-Node8-Node24
+	Backup path: 
+	Node13-Node15-Node16-Node17-Node12-Node9-Node24
+	Working path from 21 to 26
+	Node21-Node0-Node1-Node3-Node6-Node8-Node23-Node26
+	Backup path: 
+	Node21-Node4-Node3-Node5-Node7-Node17-Node12-Node9-Node24-Node26
+	Working path from 7 to 21
+	Node7-Node5-Node4-Node21
+	Backup path: 
+	Node7-Node17-Node12-Node9-Node8-Node6-Node3-Node1-Node0-Node21
+	Working path from 0 to 22
+	Node0-Node1-Node3-Node6-Node8-Node22
+	Backup path: 
+	Node0-Node4-Node3-Node5-Node7-Node17-Node12-Node9-Node24-Node26-Node23-Node22
+	Working path from 19 to 14
+	Node19-Node16-Node14
+	Backup path: 
+	Node19-Node20-Node0-Node1-Node3-Node6-Node8-Node9-Node10-Node11-Node13-Node15-Node14
+	Working path from 5 to 6
+	Node5-Node6
+	Backup path: 
+	Node5-Node3-Node6
+	Working path from 21 to 20
+	Node21-Node0-Node20
+	Backup path: 
+	Node21-Node4-Node5-Node7-Node18-Node20
+	Working path from 12 to 16
+	Node12-Node17-Node16
+	Backup path: 
+	Node12-Node9-Node10-Node11-Node13-Node15-Node16
+	Working path from 11 to 17
+	Node11-Node13-Node15-Node16-Node17
+	Backup path: 
+	Node11-Node10-Node9-Node8-Node6-Node5-Node7-Node17
+	Working path from 6 to 15
+	Node6-Node5-Node7-Node17-Node16-Node15
+	Backup path: 
+	Node6-Node8-Node9-Node10-Node11-Node13-Node15
+	Working path from 3 to 9
+	Node3-Node6-Node8-Node9
+	Backup path: 
+	Node3-Node5-Node7-Node17-Node12-Node9
+	Working path from 9 to 21
+	Node9-Node8-Node6-Node5-Node4-Node21
+	Backup path: 
+	Node9-Node12-Node17-Node7-Node5-Node3-Node1-Node0-Node21
+	Working path from 12 to 14
+	Node12-Node17-Node16-Node14
+	Backup path: 
+	Node12-Node9-Node10-Node11-Node13-Node15-Node14
+	Working path from 13 to 14
+	Node13-Node15-Node14
+	Backup path: 
+	Node13-Node11-Node10-Node9-Node8-Node6-Node5-Node7-Node17-Node16-Node14
+Additonal links is: 
+Node4 to Node 0
+Node5 to Node 3
+Node16 to Node 14
+Node17 to Node 12
+Node20 to Node 18
+Node21 to Node 4
+Node24 to Node 9
+Node25 to Node 10
+Node26 to Node 24
+Total network cost: 6850.29

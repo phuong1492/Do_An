@@ -1,0 +1,78 @@
++ Number of nodes: 24
++ Number of initial links: 23
++ Initial network cost: 1427.8499
+	Working path from 0 to 6
+	Node0 --> Node1 --> Node2 --> Node3 --> Node4 --> Node6
+	Backup path: 
+	Node0 --> Node20 --> Node19 --> Node16 --> Node12 --> Node8 --> Node6
+	Working path from 0 to 11
+	Node0 --> Node1 --> Node2 --> Node3 --> Node4 --> Node6 --> Node8 --> Node9 --> Node10 --> Node11
+	Backup path: 
+	Node0 --> Node20 --> Node19 --> Node22 --> Node11
+	Working path from 3 to 15
+	Node3 --> Node4 --> Node6 --> Node8 --> Node12 --> Node13 --> Node14 --> Node15
+	Backup path: 
+	Node3 --> Node2 --> Node1 --> Node0 --> Node20 --> Node19 --> Node22 --> Node11 --> Node15
+	Working path from 1 to 18
+	Node1 --> Node2 --> Node3 --> Node4 --> Node6 --> Node8 --> Node12 --> Node16 --> Node17 --> Node18
+	Backup path: 
+	Node1 --> Node0 --> Node20 --> Node19 --> Node22 --> Node11 --> Node15 --> Node14 --> Node18
+	Working path from 1 to 21
+	Node1 --> Node2 --> Node3 --> Node4 --> Node6 --> Node8 --> Node12 --> Node16 --> Node19 --> Node20 --> Node21
+	Backup path: 
+	Node1 --> Node0 --> Node20 --> Node16 --> Node17 --> Node18 --> Node14 --> Node15 --> Node11 --> Node22 --> Node19 --> Node21
+	Working path from 3 to 23
+	Node3 --> Node4 --> Node6 --> Node8 --> Node12 --> Node16 --> Node19 --> Node22 --> Node23
+	Backup path: 
+	Node3 --> Node2 --> Node1 --> Node0 --> Node20 --> Node19 --> Node23
+	Working path from 5 to 9
+	Node5 --> Node7 --> Node19 --> Node16 --> Node12 --> Node8 --> Node9
+	Backup path: 
+	Node5 --> Node6 --> Node4 --> Node3 --> Node2 --> Node1 --> Node0 --> Node20 --> Node16 --> Node17 --> Node18 --> Node14 --> Node15 --> Node11 --> Node10 --> Node9
+	Working path from 9 to 13
+	Node9 --> Node8 --> Node12 --> Node13
+	Backup path: 
+	Node9 --> Node10 --> Node11 --> Node15 --> Node14 --> Node13
+	Working path from 14 to 21
+	Node14 --> Node18 --> Node17 --> Node16 --> Node20 --> Node21
+	Backup path: 
+	Node14 --> Node13 --> Node12 --> Node8 --> Node6 --> Node5 --> Node7 --> Node19 --> Node21
+	Working path from 15 to 23
+	Node15 --> Node11 --> Node22 --> Node23
+	Backup path: 
+	Node15 --> Node14 --> Node13 --> Node12 --> Node8 --> Node6 --> Node5 --> Node7 --> Node19 --> Node23
+	Working path from 6 to 21
+	Node6 --> Node8 --> Node12 --> Node16 --> Node20 --> Node21
+	Backup path: 
+	Node6 --> Node4 --> Node3 --> Node2 --> Node1 --> Node0 --> Node20 --> Node19 --> Node21
+	Working path from 9 to 23
+	Node9 --> Node8 --> Node12 --> Node16 --> Node19 --> Node22 --> Node23
+	Backup path: 
+	Node9 --> Node10 --> Node11 --> Node15 --> Node14 --> Node18 --> Node17 --> Node16 --> Node20 --> Node19 --> Node23
+	Working path from 11 to 15
+	Node11 --> Node15
+	Backup path: 
+	Node11 --> Node10 --> Node9 --> Node8 --> Node12 --> Node13 --> Node14 --> Node15
+	Working path from 13 to 15
+	Node13 --> Node14 --> Node15
+	Backup path: 
+	Node13 --> Node12 --> Node8 --> Node9 --> Node10 --> Node11 --> Node15
+	Working path from 5 to 14
+	Node5 --> Node6 --> Node8 --> Node12 --> Node13 --> Node14
+	Backup path: 
+	Node5 --> Node4 --> Node3 --> Node2 --> Node1 --> Node0 --> Node20 --> Node16 --> Node17 --> Node18 --> Node14
+	Working path from 3 to 11
+	Node3 --> Node4 --> Node6 --> Node8 --> Node9 --> Node10 --> Node11
+	Backup path: 
+	Node3 --> Node2 --> Node1 --> Node0 --> Node20 --> Node16 --> Node17 --> Node18 --> Node14 --> Node15 --> Node11
+Additonal links is: 
+Node5 to Node 4
+Node6 to Node 5
+Node15 to Node 11
+Node18 to Node 14
+Node20 to Node 0
+Node20 to Node 16
+Node21 to Node 19
+Node22 to Node 11
+Node23 to Node 19
+Total network cost: 2117.3276

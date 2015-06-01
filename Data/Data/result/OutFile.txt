@@ -1,0 +1,74 @@
++ Number of nodes: 20
++ Number of initial links: 19
++ Initial network cost: 4419.2607
+	Working path from 0 to 6
+	Node0-Node1-Node2-Node3-Node4-Node5-Node6
+	Backup path: 
+	Node0-Node7-Node8-Node6
+	Working path from 0 to 11
+	Node0-Node1-Node2-Node3-Node4-Node10-Node11
+	Backup path: 
+	Node0-Node7-Node8-Node11
+	Working path from 3 to 15
+	Node3-Node4-Node15
+	Backup path: 
+	Node3-Node2-Node1-Node0-Node7-Node4-Node16-Node15
+	Working path from 1 to 18
+	Node1-Node2-Node3-Node4-Node18
+	Backup path: 
+	Node1-Node0-Node7-Node4-Node19-Node18
+	Working path from 1 to 2
+	Node1-Node2
+	Backup path: 
+	Node1-Node0-Node7-Node4-Node3-Node2
+	Working path from 3 to 6
+	Node3-Node4-Node5-Node6
+	Backup path: 
+	Node3-Node2-Node1-Node0-Node7-Node8-Node6
+	Working path from 5 to 9
+	Node5-Node6-Node8-Node9
+	Backup path: 
+	Node5-Node4-Node7-Node8-Node11-Node9
+	Working path from 9 to 13
+	Node9-Node8-Node7-Node4-Node12-Node13
+	Backup path: 
+	Node9-Node11-Node8-Node6-Node5-Node4-Node3-Node2-Node1-Node0-Node13
+	Working path from 14 to 19
+	Node14-Node4-Node19
+	Backup path: 
+	Node14-Node15-Node4-Node18-Node19
+	Working path from 15 to 17
+	Node15-Node4-Node17
+	Backup path: 
+	Node15-Node14-Node4-Node19-Node17
+	Working path from 6 to 13
+	Node6-Node5-Node4-Node12-Node13
+	Backup path: 
+	Node6-Node8-Node7-Node0-Node13
+	Working path from 13 to 19
+	Node13-Node12-Node4-Node19
+	Backup path: 
+	Node13-Node0-Node1-Node2-Node3-Node4-Node17-Node19
+	Working path from 13 to 17
+	Node13-Node12-Node4-Node17
+	Backup path: 
+	Node13-Node0-Node1-Node2-Node3-Node4-Node19-Node17
+	Working path from 6 to 19
+	Node6-Node5-Node4-Node19
+	Backup path: 
+	Node6-Node8-Node7-Node4-Node17-Node19
+	Working path from 9 to 17
+	Node9-Node8-Node7-Node4-Node17
+	Backup path: 
+	Node9-Node11-Node8-Node6-Node5-Node4-Node19-Node17
+Additonal links is: 
+Node7 to Node 0
+Node8 to Node 6
+Node11 to Node 8
+Node11 to Node 9
+Node13 to Node 0
+Node15 to Node 14
+Node16 to Node 15
+Node19 to Node 17
+Node19 to Node 18
+Total network cost: 5406.233

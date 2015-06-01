@@ -1,0 +1,31 @@
++ Number of nodes: 6
++ Number of initial links: 6
++ Initial network cost: 1372.9851
+	Working path from 0 to 3
+	Node0 --> Node5 --> Node3
+	Backup path: 
+	Node0 --> Node2 --> Node3
+	Working path from 0 to 2
+	Node0 --> Node1 --> Node2
+	Backup path: 
+	Node0 --> Node2
+	Working path from 2 to 5
+	Node2 --> Node3 --> Node5
+	Backup path: 
+	Node2 --> Node0 --> Node5
+	Working path from 1 to 5
+	Node1 --> Node0 --> Node5
+	Backup path: 
+	Node1 --> Node2 --> Node3 --> Node5
+	Working path from 3 to 5
+	Node3 --> Node5
+	Backup path: 
+	Node3 --> Node2 --> Node0 --> Node5
+	Working path from 2 to 4
+	Node2 --> Node0 --> Node4
+	Backup path: 
+	Node2 --> Node3 --> Node5 --> Node4
+Additonal links is: 
+Node2 to Node 0
+Node5 to Node 4
+Total network cost: 1875.9458
